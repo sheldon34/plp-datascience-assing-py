@@ -1,0 +1,11 @@
+paper_id,title,abstract,publish_time,year,journal
+1,Understanding COVID-19 Transmission,"Study of transmission dynamics in urban areas.",2020-03-15,2020,Nature
+2,SARS-CoV-2 Vaccine Development,"Early vaccine trials and immunogenicity results.",2021-06-10,2021,The Lancet
+3,Clinical Features of COVID-19,"Clinical characteristics of 1000 patients.",2020-04-20,2020,NEJM
+4,Impact of Lockdowns,"Analyzing mobility data and case reductions.",2020-05-30,2020,Science
+5,Variants of Concern,"Genomic surveillance of emerging variants.",2021-12-01,2021,Cell
+6,Long COVID Symptoms,"Patient-reported outcomes over 12 months.",2022-02-14,2022,BMJ
+7,Mask Effectiveness,"Comparative study of mask types.",2020-07-01,2020,PLOS ONE
+8,Testing Strategies,"Pooled testing and rapid antigen implications.",2020-08-18,2020,PLoS Medicine
+9,Viral Load Dynamics,"Temporal measurements of viral load in patients.",2021-03-22,2021,Clinical Infectious Diseases
+10,Vaccine Hesitancy,"Survey study on vaccine acceptance.",2021-09-10,2021,Vaccine
